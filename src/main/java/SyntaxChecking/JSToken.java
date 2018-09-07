@@ -1,6 +1,5 @@
 package SyntaxChecking;
 
-/*
 public enum JSToken {
     INTLITERAL,
     IDENTIFIER,
@@ -29,8 +28,8 @@ public enum JSToken {
     WHILE,
     CONST
 }
-*/
 
+/*
 public class Token {
     private static String[] keywordTable = {
         // in the same order as the keywords kinds above
@@ -71,3 +70,4 @@ public class Token {
         position = pos;
     }
 }
+*/
