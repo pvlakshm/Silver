@@ -11,4 +11,4 @@ A simple language and its Visual Studio Language Service.
 - reify the accepted grammar as an AST.
 - symbol table, and traverse the AST and do semantic analysis.
 - traverse the AST and do codegen.
-- introduce a language service based on the LSP (see [here](https://github.com/pvlakshm/LSP) for an example.
+- introduce a language service based on the LSP (see [here](https://github.com/pvlakshm/LSP) for an example).
